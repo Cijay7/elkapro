@@ -68,7 +68,7 @@ class AplikasiKantin:
 
         total_harga = 0
         
-        if "Nasi Goreng" in menu_terpilih:
+        if "Nasi Rebus" in menu_terpilih:
             total_harga += 15000
         elif "Mie Ayam" in menu_terpilih:
             total_harga += 12000
